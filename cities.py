@@ -18,8 +18,8 @@ class Cities:
             data = line.split(" ")
             city = {
                 "number": data[0],
-                "x_pos": int(data[1]),
-                "y_pos": int(data[2])
+                "x_pos": float(data[1]),
+                "y_pos": float(data[2])
             }
             self.cities.append(city)
     
