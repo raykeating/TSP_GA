@@ -1,6 +1,8 @@
 
 ## Using a Genetic Algorithm to find Solutions to the Travelling Salesman Problem 
 
+A python implementation of a simple Genetic Algorithm that attempts to find solutions to the travelling salesman problem.
+
 Read the Full Paper - in Results/writeup.pdf
 
 # Execution Instructions
@@ -33,6 +35,6 @@ If you're interested in getting the GUI thing to run on your machine, feel free 
 
 On Windows, i think the normal command, "python3 main.py" should work.
 
-Alternatively, if you open the Code folder in VScode, it should run in there.  
+Alternatively, try opening the Code folder in VScode and running in the integrated terminal.
 
 ---------------------------------------------------------------------------------------------------------------------
