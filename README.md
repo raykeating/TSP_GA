@@ -1,12 +1,9 @@
-COSC3P71 Assignment 2
-Name: Ray Keating
-Student Number: 6510200
 
-Using a Genetic Algorithm to find Solutions to the Travelling Salesman Problem 
+## Using a Genetic Algorithm to find Solutions to the Travelling Salesman Problem 
 
----------------------------------------------------------------------------------------------------------------------
-Execution Instructions
----------------------------------------------------------------------------------------------------------------------
+Read the Full Paper - in Results/writeup.pdf
+
+# Execution Instructions
 
 To run: 
 
